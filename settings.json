@@ -1,8 +1,8 @@
 {
-  "name": "Bullabbai",
+  "name": "Bullabbaigaru",
   "bot-account": {
-    "username": "Bullabbai",
-    "password": "Bullabbai",
+    "username": "Bullabbaigaru",
+    "password": "Bullabbaigaru",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Bullabbaigaru"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "AATAGALLU RA MEERU",
+        "ADUKONDIRA",
+        "NAA JEEVITHAM INTHE IGA"
       ]
     },
     "chat-log": true,
